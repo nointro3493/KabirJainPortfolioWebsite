@@ -1,0 +1,12 @@
+[
+    {
+        "role": "Software Engineer Instructor",
+        "organisation": "Code4Tomorrow",
+        "startDate": "July, 2022",
+        "endDate": "Aug. 2022",
+        "experiences": ["taught ages ranging from 8 to 16 intermediate python and scratch", "Focused on loops, arrays, basic syntax and programming logic"],
+        "imageSrc": "history/c4t.png"
+
+    }
+
+]

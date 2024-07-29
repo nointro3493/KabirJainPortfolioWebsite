@@ -1,0 +1,26 @@
+[
+    {
+      "title": "SpadeAce (Java GUI)",
+      "imageSrc": "projects/solitaire.png",
+      "description": "Recreated the popular card game Solitaire using Java's graphical user interface. Handmade front end developement and card movement system. Able to read and write highscores into a file in order to remember even after game has ended.",
+      "skills": ["Java", "GUI", "File I/O"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Key Club Bot",
+      "imageSrc": "projects/discord.png",
+      "description": "Key Club bot was created as a method of communication within our school's Key Club. Its main functions were to provide club members with meeting information, minutes, and tell jokes.",
+      "skills": ["JavaScript", "Node", "Joke API"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Halo",
+      "imageSrc": "projects/halologo.png",
+      "description": "Halo is a hackathon winning app aimed at recognizing, preventing and reporting sexual assault. A main functionality is the ability to anonymously report Sexual assault which sends the complaint to a linked discord server where authorities can act further.",
+      "skills": ["Kotlin", "android development", "javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
